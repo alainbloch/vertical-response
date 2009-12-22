@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="498"
+   name=""
+   committed-date="2009-02-17T23:06:54.596949Z"
+   url="http://svn.vps120.speedyrails.ca/svnpap/peopleandplace/trunk/vendor/plugins/vertical_response/lib"
+   last-author="peopleandplace"
+   kind="dir"
+   uuid="7cd04dc2-7d32-4124-8f57-6e100f016afd"
+   repos="http://svn.vps120.speedyrails.ca/svnpap"
+   revision="572"/>
+<entry
+   committed-rev="428"
+   name="VRAPIDriver.rb"
+   text-time="2009-02-17T23:55:21.000000Z"
+   committed-date="2008-12-17T21:38:06.436305Z"
+   checksum="cc051e0f101e64d28eccfdaf5264dda6"
+   last-author="peopleandplace"
+   kind="file"
+   prop-time="2009-02-17T23:55:21.000000Z"/>
+<entry
+   committed-rev="428"
+   name="VRAPIClient.rb"
+   text-time="2009-02-17T23:55:21.000000Z"
+   committed-date="2008-12-17T21:38:06.436305Z"
+   checksum="831d385bc756317a124f7493475bd203"
+   last-author="peopleandplace"
+   kind="file"
+   prop-time="2009-02-17T23:55:21.000000Z"/>
+<entry
+   committed-rev="428"
+   name="VRAPI.rb"
+   text-time="2009-02-17T23:55:21.000000Z"
+   committed-date="2008-12-17T21:38:06.436305Z"
+   checksum="a2eaae4f11166812766c3674f79d15cc"
+   last-author="peopleandplace"
+   kind="file"
+   prop-time="2009-02-17T23:55:21.000000Z"/>
+<entry
+   committed-rev="498"
+   name="vertical_response.rb"
+   text-time="2009-02-17T23:55:21.000000Z"
+   committed-date="2009-02-17T23:06:54.596949Z"
+   checksum="284c1233b8d6f47e773b23847212c5e3"
+   last-author="peopleandplace"
+   kind="file"
+   prop-time="2009-02-17T23:55:21.000000Z"/>
+</wc-entries>

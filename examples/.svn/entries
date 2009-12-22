@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="428"
+   name=""
+   committed-date="2008-12-17T21:38:06.436305Z"
+   url="http://svn.vps120.speedyrails.ca/svnpap/peopleandplace/trunk/vendor/plugins/vertical_response/examples"
+   last-author="peopleandplace"
+   kind="dir"
+   uuid="7cd04dc2-7d32-4124-8f57-6e100f016afd"
+   repos="http://svn.vps120.speedyrails.ca/svnpap"
+   revision="572"/>
+<entry
+   committed-rev="428"
+   name="message_content.html"
+   text-time="2009-02-17T23:55:21.000000Z"
+   committed-date="2008-12-17T21:38:06.436305Z"
+   checksum="bf2eac919cfeb747f8c2a5bfbfa55ee9"
+   last-author="peopleandplace"
+   kind="file"
+   prop-time="2009-02-17T23:55:21.000000Z"/>
+<entry
+   committed-rev="428"
+   name="VRAPI_lifecycle.rb"
+   text-time="2009-02-17T23:55:21.000000Z"
+   committed-date="2008-12-17T21:38:06.436305Z"
+   checksum="5bc966d62ba981abae174617d180aadb"
+   last-author="peopleandplace"
+   kind="file"
+   prop-time="2009-02-17T23:55:21.000000Z"/>
+<entry
+   committed-rev="428"
+   name="VRAPI_reporting.rb"
+   text-time="2009-02-17T23:55:21.000000Z"
+   committed-date="2008-12-17T21:38:06.436305Z"
+   checksum="859d846ceabade6b17dbdbfdb50f96cc"
+   last-author="peopleandplace"
+   kind="file"
+   prop-time="2009-02-17T23:55:21.000000Z"/>
+<entry
+   committed-rev="428"
+   name="message_content.txt"
+   text-time="2009-02-17T23:55:21.000000Z"
+   committed-date="2008-12-17T21:38:06.436305Z"
+   checksum="b5e25e3fc41b6e8876386ab2a025837c"
+   last-author="peopleandplace"
+   kind="file"
+   prop-time="2009-02-17T23:55:21.000000Z"/>
+</wc-entries>

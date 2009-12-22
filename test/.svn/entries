@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="428"
+   name=""
+   committed-date="2008-12-17T21:38:06.436305Z"
+   url="http://svn.vps120.speedyrails.ca/svnpap/peopleandplace/trunk/vendor/plugins/vertical_response/test"
+   last-author="peopleandplace"
+   kind="dir"
+   uuid="7cd04dc2-7d32-4124-8f57-6e100f016afd"
+   repos="http://svn.vps120.speedyrails.ca/svnpap"
+   revision="572"/>
+<entry
+   committed-rev="428"
+   name="vertical_response_test.rb"
+   text-time="2009-02-17T23:55:21.000000Z"
+   committed-date="2008-12-17T21:38:06.436305Z"
+   checksum="3f8b134671745d7a6c3ed875e7af2e5d"
+   last-author="peopleandplace"
+   kind="file"
+   prop-time="2009-02-17T23:55:21.000000Z"/>
+</wc-entries>

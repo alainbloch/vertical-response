@@ -1,0 +1,50 @@
+Vertical Response for Rails
+===========================
+
+A simple module to push members and newsletters to
+pre-created lists in the Vertical Response Email Campaign Application (verticalresponse.com).
+
+
+Required Gems
+=============
+- soap4r
+
+Recreating WSDL files
+=====================
+If the WSDL files are out-of-date, run the following script to recreate them, and place them in the lib folder (replacing the older versions of the files):
+  ruby  /usr/lib/ruby/gems/1.8/gems/soap4r-1.5.8/bin/wsdl2ruby.rb \n
+        --wsdl https://api.verticalresponse.com/wsdl/1.0/VRAPI.wsdl --type client --force
+
+Add a Certs directory to config
+================================
+If you want to use a certificate with the API, add a certs folder in the config directory.
+The VR_CERT, and VR_KEY options set the file names for the cert and key. The plugin will look
+in the certs folder for these files.
+
+Place and modify in environment.rb
+==================================
+# Vertical Response Settings
+VR_USERNAME = ""
+VR_PASSWORD = ""
+VR_SESSION_TIME = 4 
+# VR SESSION TIME determines how many minutes until the session id expires
+VR_REDIRECT = "http://www.verticalresponse.com"
+VR_CERT = ""
+VR_KEY  = ""
+VR_WSDL = "https://api.verticalresponse.com/partner-wsdl/1.0/VRAPI.wsdl" 
+# VR_WSDL is set to the partner WSDL. The Enterprise WSDL url is "https://api.verticalresponse.com/wsdl/1.0/VRAPI.wsdl"
+
+
+# Vertical Response List IDs
+# Define the List Ids you will use (optional)
+TEST_LIST_ID = ""
+
+
+Example
+=======
+
+This plugin creates a simple class that you can use to connect to a VR list and 
+push members or newsletters into it.
+
+
+Copyright (c) 2008 Alain Bloch, released under the MIT license
